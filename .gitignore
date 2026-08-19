@@ -2,6 +2,9 @@
 .env
 .env.local
 
+# Generated crawl artifact (reproducible from the notebook; do not submit)
+hackernoon_subset.csv
+
 # Python
 __pycache__/
 *.py[cod]
