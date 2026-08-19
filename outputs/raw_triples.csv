@@ -1,0 +1,56 @@
+source_raw,source_type,relation,target_raw,target_type,source_chunk_id,published_date,evidence,confidence
+Squeeze,Company,USES,Youtility technology,Technology,e6fe754774c1e887b74f::c0000,2023-10-26,Squeeze's data analytics and B2C experience with Youtility unique technology allowing switching to be integrated by banks,1.0
+GreenPages,Company,ACQUIRED,Zanaris,Company,4bd7afdba71243b0dbcd::c0000,2023-05-02,GreenPages acquired Toronto-based Zanaris an IT automation cloud and DevOps services firm,1.0
+ADP,Company,USES,Artificial Intelligence,Technology,4c8e9044ab0a5a6808a6::c0000,2022-12-29,Through Amazon Web Services' Artificial Intelligence (AI)/machine learning (ML) technology the team at Amazon Web Services (AWS) help businesses like ADP,1.0
+Renovus,Company,INVESTED_IN,Aretum,Company,c93002837c287180b0c5::c0000,2023-04-19,Aretum becomes the fourth company backed by Renovus,1.0
+LeanTaaS,Company,ACQUIRED,Hospital IQ,Company,99f8ce77e2f393b9bdc5::c0000,2023-01-10,LeanTaaS Acquires Hospital IQ to Create AI Innovator for Hospital Operations Optimization,0.98
+Syxsense,Company,USES,Unified Security and Endpoint Management (USEM) solutions,Technology,c8847b4677267ef356dd::c0000,2023-06-06,"Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions",1.0
+Intelligent Technical Solutions,Company,ACQUIRED,Granite Computer Solutions,Company,f982dd2920614d44fec3::c0000,2023-03-28,"Intelligent Technical Solutions (""ITS"") ... has acquired Granite Computer Solutions",1.0
+Synopsys,Company,PARTNERED_WITH,TSMC,Company,4b907bbb535472c4877e::c0000,2023-05-17,Synopsys's collaboration with TSMC,1.0
+Synopsys,Company,USES,N2 (2nm) process,Technology,4b907bbb535472c4877e::c0000,2023-05-17,deliver digital and custom design EDA flows on TSMC's most advanced N2 (2nm) process,1.0
+Synchronoss,Company,DEVELOPED,Personal Cloud,Technology,6cd6e6fbd37cef499912::c0000,2023-02-22,The new Synchronoss Personal Cloud platform enables telecom operators...,1.0
+Apogee,Company,ACQUIRED,Cumulus Technology Services Inc.,Company,8558ae812cf7531af5ad::c0000,2022-12-16,Apogee has acquired Cumulus Technology Services Inc.,1.0
+Fidelity National Information Services,Company,ACQUIRED,Worldpay,Company,e932445090da75b8ccf6::c0000,2022-12-15,acquisition of Cincinnati-based Worldpay,1.0
+Level Ex,Company,USES,video game technology,Technology,12580d3d9ae2a4638b6f::c0000,2023-02-15,The award was won by a company called Level Ex which uses video game technology to serve the ...,0.95
+Star Micronics,Company,DEVELOPED,hospitality POS mobile ordering,Technology,59962ceebb61a6ef7d43::c0000,2023-03-13,Star Micronics's latest solutions for hospitality POS mobile ordering,1.0
+SIOS Technology Corp,Company,PARTNERED_WITH,ACP IT Solutions GmbH Dresden,Company,30eabd8710efff4abc2e::c0000,2023-08-14,SIOS Technology Corp ... has partnered with ACP IT Solutions GmbH Dresden,1.0
+Salesforce,Company,USES,Onfido,Company,5d1b820633fed409a90e::c0000,2023-05-05,integrating with Onfido,1.0
+Akeneo,Company,USES,Machine Learning,Technology,8dc0de1ac5eca8c4bb72::c0000,2023-02-08,services company harnesses ML for several use cases and aims to deploy machine learning at scale,0.9
+Amazon Web Services,Company,DEVELOPED,Artificial Intelligence,Technology,4c8e9044ab0a5a6808a6::c0000,2022-12-29,Through Amazon Web Services' Artificial Intelligence (AI)/machine learning (ML) technology ...,1.0
+Shipsy,Company,DEVELOPED,logistics technology platform,Technology,d4390fbeda5c6c8aee51::c0000,2023-10-26,Shipsy's commitment to providing a comprehensive end-to-end logistics technology platform,1.0
+OpenAI,Company,PARTNERED_WITH,Associated Press,Company,67f61078101e32548302::c0000,2023-07-13,The Associated Press and OpenAI have reached an agreement to share access to select news content and technology,1.0
+Tower Arch Capital,Company,INVESTED_IN,Intelligent Technical Solutions,Company,f982dd2920614d44fec3::c0000,2023-03-28,"Intelligent Technical Solutions (""ITS"") a portfolio company of Tower Arch Capital",1.0
+Investment firm,Company,ACQUIRED,CoolIT Systems,Company,15499a6ad60f9ef2500b::c0000,2023-05-02,Investment firm will acquire CoolIT Systems which makes systems designed to prevent computing hardware from overheating.,0.95
+Attra,Company,PARTNERED_WITH,Synechron,Company,ad39674c1e91442967c9::c0000,2023-01-10,Attra will operate under the Synechron brand as Synechron Payments following full integration within Synechron,0.94
+Aqara,Company,DEVELOPED,FP2 Presence Sensor,Technology,3387461d5f34cf26d922::c0000,2023-10-05,FP2 Presence Sensor is Aqara's latest occupancy sensor,1.0
+Aqara,Company,PARTNERED_WITH,Samsung,Company,3387461d5f34cf26d922::c0000,2023-10-05,Aqara has been working with Samsung,1.0
+Nintendo,Company,DEVELOPED,Nintendo Switch Online,Technology,a99df60b77a4081b2cf8::c0000,2023-03-13,Nintendo started server maintenance that might temporarily make the Nintendo Switch Online service unavailable.,1.0
+dynaCERT,Company,DEVELOPED,HydraGEN™ Carbon Emission Reduction Technology,Technology,7ac7c9c97aac23e234ea::c0000,2023-09-18,dynaCERT’s HydraGEN™ Carbon Emission Reduction Technology line of commercial products,0.96
+Freshworks Inc.,Company,DEVELOPED,AI-powered Customer Service Suite,Technology,d7780588f2f2dfd15ca1::c0000,2023-08-07,launch of Freshworks Inc.'s AI-powered Customer Service Suite,1.0
+Prolucent Health,Company,PARTNERED_WITH,UKG,Company,67de1c052ef8ee466663::c0000,2023-09-06,Prolucent Health ... announced a new technology partnership with UKG,1.0
+Odyssey,Company,PARTNERED_WITH,ATS,Company,ef0b07436a0a914a91f5::c0000,2023-07-19,Odyssey will join ATS' Process Automation Solutions ('PA') business a leading provider of automation and digitalization solutions for the process and manufacturing industries.,0.95
+Citi,Company,USES,blockchain technology,Technology,3ac1a0d4fdc98952e374::c0000,2023-09-26,Citi has launched a token service using blockchain technology to offer digital asset solutions for Citi institutional clients,0.96
+Hollywood Casino at Greektown,Company,USES,Amazon One,Technology,72ff44ac6bc220df7d85::c0000,2022-12-15,Hollywood Casino at Greektown ... powered by Amazon’s Just Walk Out technology and Amazon One,0.94
+Hollywood Casino at Greektown,Company,USES,Just Walk Out technology,Technology,72ff44ac6bc220df7d85::c0000,2022-12-15,Hollywood Casino at Greektown is a new grab-and-go market powered by Amazon’s Just Walk Out technology,0.96
+Sineng Electric,Company,USES,EliteSiC,Technology,1a05beb7aa3071be6fd7::c0000,2023-05-16,Sineng Electric will integrate onsemi EliteSiC silic,1.0
+IFI Techsolutions,Company,PARTNERED_WITH,Microsoft,Company,f2a20c3f98c3fb8dc3cc::c0000,2023-05-15,As a global Microsoft partner IFI Techsolutions continues to verify IFI Techsolutions excellence in customer delivery and technical expertise via the Microsoft Azure Expert MSP program.,1.0
+Inspire Brands Inc.,Company,PARTNERED_WITH,Fiserv Inc.,Company,78b8735a42ec08485f7f::c0000,2023-09-27,has expanded its work with processor Fiserv Inc.,1.0
+Crexendo,Company,DEVELOPED,VIP Business Communications Platform,Technology,391d8c6c09f3574ace59::c0000,2023-04-19,Crexendo's VIP Business Communications Platform ®,1.0
+Crexendo,Company,PARTNERED_WITH,Jenne Cloud Services Brokerage,Technology,391d8c6c09f3574ace59::c0000,2023-04-19,Jenne Cloud Services Brokerage is a new Technology Services Brokerage for Crexendo's VIP Business Communications Platform,1.0
+DI,Company,DEVELOPED,Test Properties,Technology,b79a700c32d38dfbb808::c0000,2023-07-20,The first app to be developed within the DI Gateway framework ... is called Test Properties.,1.0
+DI,Company,USES,DI Gateway framework,Technology,b79a700c32d38dfbb808::c0000,2023-07-20,all new DI lab automation and productivity web apps will be developed within the DI Gateway framework.,1.0
+GORE,Company,PARTNERED_WITH,AGC Biologics,Company,43bdd40313e396c6a385::c0000,2022-12-12,The collaboration includes ... alongside AGC Biologics’ mAb-based CDMO,1.0
+Smart Eye,Company,DEVELOPED,Driver Monitoring System,Technology,452645a488a55910006f::c0000,2023-06-26,Smart Eye the leading developer of Driver Monitoring System (DMS) technology,1.0
+Apple,Company,DEVELOPED,Vision Pro,Technology,77175bc7ffab3269c5f4::c0000,2023-06-07,Apple's new Vision Pro,1.0
+CLogic,Company,PARTNERED_WITH,ServiceNow,Company,61a1c40b921f530a0072::c0000,2023-03-16,CLogic ... announced CLogic gold-level sponsorship and participation ... ServiceNow Knowledge 2023 conference.,1.0
+ServiceM8,Company,DEVELOPED,job management app,Technology,e356f07d50b390ae7af7::c0000,2023-04-16,ServiceM8 the job management app for trade contractors & service businesses,1.0
+Microsoft,Company,DEVELOPED,Airband Initiative,Technology,33f76af2d7f1afee070c::c0000,2022-12-14,New collaboration through the Microsoft Airband Initiative will increase internet availability...,0.95
+Nathan Snell,Person,LEADS,Raleon,Company,b78a3e8e1fbfd8bed3f1::c0000,2023-08-25,Nathan Snell co-founder and CEO of ... Raleon,1.0
+Mark Leary,Person,WORKED_AT,IDC,Company,24e2333c327a81eca0f6::c0000,2023-03-03,Mark Leary research director for network analytics and automation at IDC,1.0
+Barry Holt,Person,WORKED_AT,Information Services Group,Company,e8c7698ca94b690ef93e::c0000,2023-08-05,Barry Holt; Senior Advisor; Information Services Group,1.0
+Grant,Person,USES,telegraph,Technology,840090f7efb65b47d8cb::c0000,2023-02-06,Grant marveled at the technology ... telegraph ... at Grant and Sherman's disposal.,1.0
+Mike Dixon,Person,WORKED_AT,Focus Brands,Company,b14f218291d93e6cbd2d::c0000,2023-05-05,Focus Brands’ CFO Mike Dixon,1.0
+Jim Love,Person,LEADS,IT World Canada,Company,428ed79eddcc1e3980f2::c0000,2022-12-28,Jim Love chief information officer (CIO) of IT World Canada,1.0
+Eric Schummer,Person,FOUNDED,Senzary LLC,Company,1f966db1e28d1122c747::c0000,2023-01-24,Eric Schummer the founder ... of Senzary LLC,1.0
+Eric Schummer,Person,LEADS,Senzary LLC,Company,1f966db1e28d1122c747::c0000,2023-01-24,Eric Schummer ... CEO of Senzary LLC,1.0
+Sherman,Person,USES,telegraph,Technology,840090f7efb65b47d8cb::c0000,2023-02-06,Grant marveled at the technology ... telegraph ... at Grant and Sherman's disposal.,1.0

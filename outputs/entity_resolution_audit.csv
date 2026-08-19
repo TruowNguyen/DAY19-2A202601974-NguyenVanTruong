@@ -1,0 +1,46 @@
+type,left,right,similarity,decision
+Technology,Artificial Intelligence,Machine Learning,0.7034624814987183,REJECT_THRESHOLD
+Company,Attra,ATS,0.641123354434967,REJECT_THRESHOLD
+Company,ServiceNow,ServiceM8,0.629413902759552,REJECT_THRESHOLD
+Company,Synopsys,Synechron,0.6182645559310913,REJECT_THRESHOLD
+Company,Salesforce,Microsoft,0.598405122756958,REJECT_THRESHOLD
+Company,Samsung,Apple,0.575255811214447,REJECT_THRESHOLD
+Company,Worldpay,IT World Canada,0.573572039604187,REJECT_THRESHOLD
+Company,Focus Brands,Inspire Brands Inc.,0.5704535245895386,REJECT_THRESHOLD
+Company,Nintendo,Apple,0.5411778688430786,REJECT_THRESHOLD
+Company,Samsung,Nintendo,0.5391405820846558,REJECT_THRESHOLD
+Company,Salesforce,Amazon Web Services,0.5196886658668518,REJECT_THRESHOLD
+Company,Senzary LLC,Fiserv Inc.,0.5162014961242676,REJECT_THRESHOLD
+Company,Salesforce,Apple,0.5131990313529968,REJECT_THRESHOLD
+Company,Freshworks Inc.,Inspire Brands Inc.,0.5123386979103088,REJECT_THRESHOLD
+Company,Salesforce,Samsung,0.509515643119812,REJECT_THRESHOLD
+Company,Salesforce,Nintendo,0.5022354125976562,REJECT_THRESHOLD
+Technology,VIP Business Communications Platform,AI-powered Customer Service Suite,0.4774648249149322,REJECT_THRESHOLD
+Technology,logistics technology platform,VIP Business Communications Platform,0.475836306810379,REJECT_THRESHOLD
+Person,Nathan Snell,Barry Holt,0.4335320591926574,REJECT_THRESHOLD
+Technology,blockchain technology,logistics technology platform,0.432343065738678,REJECT_THRESHOLD
+Technology,blockchain technology,video game technology,0.4181947708129883,REJECT_THRESHOLD
+Technology,Artificial Intelligence,video game technology,0.4168150722980499,REJECT_THRESHOLD
+Person,Mark Leary,Mike Dixon,0.4163799583911896,REJECT_THRESHOLD
+Technology,Youtility technology,video game technology,0.4136423766613006,REJECT_THRESHOLD
+Technology,Artificial Intelligence,AI-powered Customer Service Suite,0.4107050001621246,REJECT_THRESHOLD
+Technology,Personal Cloud,Jenne Cloud Services Brokerage,0.4074270725250244,REJECT_THRESHOLD
+Person,Barry Holt,Mike Dixon,0.4053522944450378,REJECT_THRESHOLD
+Technology,Youtility technology,Just Walk Out technology,0.3988063335418701,REJECT_THRESHOLD
+Technology,VIP Business Communications Platform,Airband Initiative,0.3956214189529419,REJECT_THRESHOLD
+Technology,VIP Business Communications Platform,DI Gateway framework,0.3755408227443695,REJECT_THRESHOLD
+Person,Nathan Snell,Eric Schummer,0.3746033310890198,REJECT_THRESHOLD
+Technology,Just Walk Out technology,video game technology,0.3732928037643432,REJECT_THRESHOLD
+Technology,Personal Cloud,Amazon One,0.3651632070541382,REJECT_THRESHOLD
+Technology,Jenne Cloud Services Brokerage,VIP Business Communications Platform,0.3602394461631775,REJECT_THRESHOLD
+Person,Barry Holt,Jim Love,0.3392390608787536,REJECT_THRESHOLD
+Person,Barry Holt,Eric Schummer,0.3375691771507263,REJECT_THRESHOLD
+Person,Jim Love,Eric Schummer,0.3366524279117584,REJECT_THRESHOLD
+Person,Mike Dixon,Eric Schummer,0.3323325216770172,REJECT_THRESHOLD
+Person,Nathan Snell,Mark Leary,0.3311222195625305,REJECT_THRESHOLD
+Person,Nathan Snell,Jim Love,0.324302613735199,REJECT_THRESHOLD
+Person,Mike Dixon,Jim Love,0.3241381645202636,REJECT_THRESHOLD
+Person,Grant,Jim Love,0.3058318793773651,REJECT_THRESHOLD
+Person,Grant,Eric Schummer,0.3042344450950622,REJECT_THRESHOLD
+Person,Grant,Sherman,0.3017593920230865,REJECT_THRESHOLD
+Person,Mark Leary,Eric Schummer,0.3008573055267334,REJECT_THRESHOLD
